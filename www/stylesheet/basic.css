@@ -1,0 +1,39 @@
+
+body{
+  font-family: 'open-sans', arial, sans-serif;
+  color: #666;
+  font-weight: normal;
+  line-height: 1.7;
+}
+.insert-input{
+  border-radius: 10px;
+  width: 40em;
+  height: 3em;
+  margin-bottom: 2em;
+  border: 2px solid green;
+}
+.insert-input:hover{
+  border: 2px solid Salmon;
+}
+.row{
+  padding: 10px 0 0 100px;
+}
+.input-button{
+  width: 120px;
+  height: 60px;
+  margin-left: 200px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
+.input-button:hover{
+  background-color: #3CB371;
+}
+
+.row{
+  margin: 0 0 0 30%;
+}
+p{
+  margin-top: 100px;
+  text-align: center;
+}
